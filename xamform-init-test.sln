@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamform-init-test.Android", "xamform-init-test.Android\xamform-init-test.Android.csproj", "{38489B3E-54B5-4B06-B7DD-FA3811505F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xamform-init-test", "xamform-init-test\xamform-init-test.csproj", "{7EDB66EF-8D57-42EC-8E90-C656B42CD9CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38489B3E-54B5-4B06-B7DD-FA3811505F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38489B3E-54B5-4B06-B7DD-FA3811505F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38489B3E-54B5-4B06-B7DD-FA3811505F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38489B3E-54B5-4B06-B7DD-FA3811505F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EDB66EF-8D57-42EC-8E90-C656B42CD9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EDB66EF-8D57-42EC-8E90-C656B42CD9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EDB66EF-8D57-42EC-8E90-C656B42CD9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EDB66EF-8D57-42EC-8E90-C656B42CD9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
